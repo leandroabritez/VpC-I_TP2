@@ -5,6 +5,7 @@ Este repositorio contiene la resolución del segundo trabajo práctico de la mat
 **Integrantes:**
 - Lucia T. Capon Paul
 - Cesar Orellana
+- Madrid, Martin
 - Leandro Britez
 
 ---
